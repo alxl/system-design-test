@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  database: "test_db"
+  username: "tester"
+  password: "testing"
+  host: localhost
+  pool: 5
+  timeout: 5000
+
